@@ -9,5 +9,20 @@
         "name": "Ilona Mejía"
     },
     "items": [
+        {
+            "id": "https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-visual.html",
+            "url": "https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-visual.html",
+            "title": "Composición visual ",
+            "summary": "Esta composición es una representación cartográfica abstracta del Parque Nacional. Un lugar que es parte de mi vida cotidiana ya que vivo al lado y recorro constantemente. La versión en azul funciona como un mapa de mis trayectos, pero también de muchas de las personas&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Esta composición es una representación cartográfica abstracta del Parque Nacional. Un lugar que es parte de mi vida cotidiana ya que vivo al lado y recorro constantemente. La versión en azul funciona como un mapa de mis trayectos, pero también de muchas de las personas que lo frecuentan cada día. La versión en rojo representa ese mismo espacio pero en lengua de la comunidad indígena de los Embera, para recordar que ellos en modo de protesta llegaron al Parque Nacional, donde vivieron y lo resignifican al igual que otras personas como un lugar de resistencia.</span></p>\n<p>Acércalo para ver mejor </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/aaaa-2.jpg\" alt=\"\" width=\"6388\" height=\"2337\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-xs.jpg 640w ,https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-sm.jpg 768w ,https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-md.jpg 1024w ,https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-lg.jpg 1366w ,https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-xl.jpg 1600w ,https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-2xl.jpg 1920w\"></figure>",
+            "author": {
+                "name": "Ilona Mejía"
+            },
+            "tags": [
+                   "COMPOSICIÓN VISUAL"
+            ],
+            "date_published": "2025-09-02T19:04:44-05:00",
+            "date_modified": "2025-09-02T19:18:28-05:00"
+        }
     ]
 }

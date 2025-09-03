@@ -3,10 +3,33 @@
     <title>ARTEyCOMUNICACIÓN</title>
     <link href="https://ilonamejiamora-mmm.github.io/arte.comunicacion/feed.xml" rel="self" />
     <link href="https://ilonamejiamora-mmm.github.io/arte.comunicacion" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2025-09-02T19:18:28-05:00</updated>
     <author>
         <name>Ilona Mejía</name>
     </author>
     <id>https://ilonamejiamora-mmm.github.io/arte.comunicacion</id>
 
+    <entry>
+        <title>Composición visual </title>
+        <author>
+            <name>Ilona Mejía</name>
+        </author>
+        <link href="https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-visual.html"/>
+        <id>https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-visual.html</id>
+            <category term="COMPOSICIÓN VISUAL"/>
+
+        <updated>2025-09-02T19:04:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Esta composición es una representación cartográfica abstracta del Parque Nacional. Un lugar que es parte de mi vida cotidiana ya que vivo al lado y recorro constantemente. La versión en azul funciona como un mapa de mis trayectos, pero también de muchas de las personas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Esta composición es una representación cartográfica abstracta del Parque Nacional. Un lugar que es parte de mi vida cotidiana ya que vivo al lado y recorro constantemente. La versión en azul funciona como un mapa de mis trayectos, pero también de muchas de las personas que lo frecuentan cada día. La versión en rojo representa ese mismo espacio pero en lengua de la comunidad indígena de los Embera, para recordar que ellos en modo de protesta llegaron al Parque Nacional, donde vivieron y lo resignifican al igual que otras personas como un lugar de resistencia.</span></p>
+<p>Acércalo para ver mejor </p>
+<figure class="post__image"><img loading="lazy"  src="https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/aaaa-2.jpg" alt="" width="6388" height="2337" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-xs.jpg 640w ,https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-sm.jpg 768w ,https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-md.jpg 1024w ,https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-lg.jpg 1366w ,https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-xl.jpg 1600w ,https://ilonamejiamora-mmm.github.io/arte.comunicacion/media/posts/3/responsive/aaaa-2-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
