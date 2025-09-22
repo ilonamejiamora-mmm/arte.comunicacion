@@ -3,12 +3,35 @@
     <title>ARTEyCOMUNICACIÓN</title>
     <link href="https://ilonamejiamora-mmm.github.io/arte.comunicacion/feed.xml" rel="self" />
     <link href="https://ilonamejiamora-mmm.github.io/arte.comunicacion" />
-    <updated>2025-09-12T22:50:00-05:00</updated>
+    <updated>2025-09-22T18:05:11-05:00</updated>
     <author>
         <name>Ilona Mejía</name>
     </author>
     <id>https://ilonamejiamora-mmm.github.io/arte.comunicacion</id>
 
+    <entry>
+        <title>COMPOSICIÓN SONORA </title>
+        <author>
+            <name>Ilona Mejía</name>
+        </author>
+        <link href="https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-sonora.html"/>
+        <id>https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-sonora.html</id>
+            <category term="COMPOSICIÓN SONORA"/>
+
+        <updated>2025-09-22T18:05:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Aquí esta el enlace para que puedan escucharrr. https://drive.google.com/file/d/1RgYRJQ1nA0E_5hTQPbNMsPOVZ1lx4dye/view?usp=sharing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Aquí esta el enlace para que puedan escucharrr.</p>
+<p><a href="https://drive.google.com/file/d/1RgYRJQ1nA0E_5hTQPbNMsPOVZ1lx4dye/view?usp=sharing">https://drive.google.com/file/d/1RgYRJQ1nA0E_5hTQPbNMsPOVZ1lx4dye/view?usp=sharing</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>COMIC</title>
         <author>
