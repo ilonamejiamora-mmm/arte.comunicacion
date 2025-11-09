@@ -3,12 +3,34 @@
     <title>ARTEyCOMUNICACIÓN</title>
     <link href="https://ilonamejiamora-mmm.github.io/arte.comunicacion/feed.xml" rel="self" />
     <link href="https://ilonamejiamora-mmm.github.io/arte.comunicacion" />
-    <updated>2025-09-22T18:05:11-05:00</updated>
+    <updated>2025-11-09T18:05:35-05:00</updated>
     <author>
         <name>Ilona Mejía</name>
     </author>
     <id>https://ilonamejiamora-mmm.github.io/arte.comunicacion</id>
 
+    <entry>
+        <title>COMPOSICIÓN VIDEO </title>
+        <author>
+            <name>Ilona Mejía</name>
+        </author>
+        <link href="https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-video.html"/>
+        <id>https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-video.html</id>
+            <category term="COMPOSICIÓN VIDEO"/>
+
+        <updated>2025-11-09T18:05:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    https://youtu.be/9LSc87dN-YQ Acá esta el link para ir al video llamado Frenesí. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://youtu.be/9LSc87dN-YQ">https://youtu.be/9LSc87dN-YQ</a></p>
+<p>Acá esta el link para ir al video llamado Frenesí. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>COMPOSICIÓN SONORA </title>
         <author>

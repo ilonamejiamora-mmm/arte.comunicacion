@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-video.html",
+            "url": "https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-video.html",
+            "title": "COMPOSICIÓN VIDEO ",
+            "summary": "https://youtu.be/9LSc87dN-YQ Acá esta el link para ir al video llamado Frenesí. ",
+            "content_html": "<p><a href=\"https://youtu.be/9LSc87dN-YQ\">https://youtu.be/9LSc87dN-YQ</a></p>\n<p>Acá esta el link para ir al video llamado Frenesí. </p>",
+            "author": {
+                "name": "Ilona Mejía"
+            },
+            "tags": [
+                   "COMPOSICIÓN VIDEO"
+            ],
+            "date_published": "2025-11-09T18:05:00-05:00",
+            "date_modified": "2025-11-09T18:05:35-05:00"
+        },
+        {
             "id": "https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-sonora.html",
             "url": "https://ilonamejiamora-mmm.github.io/arte.comunicacion/composicion-sonora.html",
             "title": "COMPOSICIÓN SONORA ",
